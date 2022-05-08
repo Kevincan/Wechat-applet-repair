@@ -1,0 +1,28 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/reg/reg",
+    "pages/baoxiu/baoxiu",
+    "pages/guanli/guanli",
+    "pages/weixiu/weixiu",
+    "pages/index/canvas2",
+    "pages/index/canvas1",
+    "pages/glysh/glysh",
+    "pages/gcsjd/gcsjd",
+    "pages/wxxm/wxxm",
+    "pages/showview/showview",
+    "pages/bxview/bxview",
+    "pages/yinsi/yinsi",
+    "pages/welcome/welcome",
+    "pages/adduser/adduser"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "文登报修",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
